@@ -10,7 +10,4 @@ Project director: Richard Sowers
 Copyright 2022 University of Illinois Board of Trustees. All Rights Reserved. Licensed under the MIT license
 
 ### Explanation of repository:
-This repo contains an exploration of qiskit.  The different QiskitExploration_XXX.ipynb is an exploration of the function XXX in qiskit.
-
-A good reference for matrix representations is https://idnm.github.io/blog/qiskit/tensor%20networks/quantum%20concepts/2021/08/18/Matrix-representation-of-quantum-circuits.html
-
+This repo contains an exploration of qiskit.  The different QiskitExploration_XXX.ipynb notesbooks are an exploration of the appropriate functions in qiskit.
